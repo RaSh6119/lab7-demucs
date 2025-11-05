@@ -1,5 +1,9 @@
 VERSION=v1
+<<<<<<< HEAD
 DOCKERUSER=PUT_YOUR_DOCKER_ID_HERE
+=======
+DOCKERUSER=rash4560
+>>>>>>> 4625728 (Updated code)
 
 #
 # You should probably update the docker.io user if you update this

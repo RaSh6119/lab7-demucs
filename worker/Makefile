@@ -1,5 +1,9 @@
 VERSION=v1
+<<<<<<< HEAD
 DOCKERUSER=YOUR_DOCKER_USERNAME_HERE
+=======
+DOCKERUSER=rash4560
+>>>>>>> 4625728 (Updated code)
 
 build:
 	docker build -f Dockerfile -t demucs-worker .
